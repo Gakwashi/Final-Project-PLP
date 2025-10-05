@@ -35,7 +35,7 @@ Millions of individuals living with chronic health conditions such as diabetes, 
 
 ## Monetization Strategy
 
-### 🇰🇪 Kenya-Focused Model
+### Kenya-Focused Model
 
 1. **Freemium Tier**
    - Free: pantry input, basic health filters, recipe suggestions
