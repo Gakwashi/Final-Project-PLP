@@ -1,10 +1,6 @@
 # Final-Project-PLP#
 
 
-Here’s your updated `README.md` file with a Kenya-specific market analysis and a more realistic monetization strategy tailored to your context:
-
----
-
 # Zero Hunger Pantry Planner
 
 ## Problem Statement
